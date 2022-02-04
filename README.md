@@ -1,4 +1,4 @@
-# Channels en GO (Diálogo entre GORoutines)
+# Channels en GO (comunicación entre GORoutines)
 
 Un canal es un mecanismo de comunicación que le permite a una Gorutine enviar información a otra Gorutine a través de él. Cada canal tiene un tipo especial, que es el tipo de datos que los canales pueden enviar. Un canal que puede enviar datos de tipo int generalmente se escribe como ```chan int```.
 
